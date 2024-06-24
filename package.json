@@ -1,0 +1,26 @@
+{
+  "name": "solo-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarisHazar3431/Peg-Solitaire-Solver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarisHazar3431/Peg-Solitaire-Solver/issues"
+  },
+  "homepage": "https://github.com/BarisHazar3431/Peg-Solitaire-Solver#readme",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
